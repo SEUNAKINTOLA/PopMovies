@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="default_horizontal">18dp</dimen>
+    <dimen name="default_vertical">18dp</dimen>
+</resources>
